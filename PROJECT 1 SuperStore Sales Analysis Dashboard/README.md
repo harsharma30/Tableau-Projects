@@ -1,4 +1,4 @@
-# Superstore Sales Analysis Dashboard
+# Retail Sales Performance Analytics Dashboard
 
 This repository contains the code and visualizations for a Superstore Sales Analysis Dashboard.
 
